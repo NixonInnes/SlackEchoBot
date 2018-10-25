@@ -14,6 +14,7 @@ See: https://api.slack.com/bot-users
 
 If you are using a public Slack, and don't have permission to create a token, you can set up your own Slack to test the bot within.  
 You will need to add the token into an environment variable, called SLACK_TOKEN.  
+You can create a Slack Workspace from: https://get.slack.help/hc/en-us/articles/206845317-Create-a-Slack-workspace
 
 ### PACKAGES
 We're using slackclient; documentation for it can be seen here:  
